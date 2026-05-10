@@ -2,9 +2,9 @@
 
 # 👋 Hey there, I'm Sumirraa Khatiwoda
 
-### Full-Stack Web Developer · MERN Stack Certified · Based in Nepal 🇳🇵
+### Full-Stack Web Developer · MERN Stack Certified · ML Enthusiast · Based in Nepal 🇳🇵
 
-*I build clean, functional web apps — from pixel-perfect frontends to robust backends.*
+*I build clean, functional web apps and explore the world of data & machine learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumirakhatiwoda23)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumirakhatiwoda23)
@@ -18,18 +18,18 @@
 
 ```javascript
 const sumirraa = {
-  role:        "Full-Stack Web Developer",
+  role:        "Full-Stack Web Developer & ML Enthusiast",
   certified:   ["MERN Stack"],
   location:    "Kathmandu, Nepal 🏔️",
-  currentFocus: "Building real-world MERN stack projects",
+  currentFocus: "Building MERN apps & exploring Machine Learning with Python",
   funFact:     "I debug with console.log and I'm not sorry 😄"
 };
 ```
 
-- 🌱 Always learning something new in the JavaScript ecosystem
-- 🔨 Currently building projects with **React**, **Node.js**, and **MongoDB**
+- 🌱 Currently learning **Python** and **Machine Learning**
+- 🔨 Building projects with **React**, **Node.js**, **MongoDB** and **scikit-learn**
 - 🎯 Goal: Contributing to open source and landing my first dev role
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, or **React**
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **React**, or **Python**
 
 ---
 
@@ -54,6 +54,14 @@ const sumirraa = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Python & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -81,7 +89,6 @@ const sumirraa = {
 | [🍽️ MealDB React App](https://github.com/sumirakhatiwoda23/MealDB-React-Project) | Browse and search meals using TheMealDB API | React, API |
 | [🎓 Student Management](https://github.com/sumirakhatiwoda23/student-management) | Full CRUD student management system | JavaScript |
 | [🖥️ Microsoft CSS Clone](https://github.com/sumirakhatiwoda23/Microsoft-CSS-Clone) | Pixel-perfect clone of the Microsoft homepage | HTML, CSS |
-| [🔷 MERN Project](https://github.com/sumirakhatiwoda23/Mern) | Full-stack MERN application | MongoDB, Express, React, Node |
 
 ---
 
