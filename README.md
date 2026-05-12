@@ -69,8 +69,8 @@ const sumirraa = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumirakhatiwoda23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumirakhatiwoda23&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-alpha.vercel.app/api?username=sumirakhatiwoda23&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumirakhatiwoda23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
