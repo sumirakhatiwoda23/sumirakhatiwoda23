@@ -96,6 +96,16 @@ const sumirraa = {
 
 ![MERN Stack](https://img.shields.io/badge/Certified-MERN_Stack_Developer-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<div align="center">
+
+### MERN Stack — MindRisers Institute of Technology
+
+<img src="MindRisers_Certificate.png" alt="MERN Stack Certificate of Completion - MindRisers Institute of Technology" width="700"/>
+
+> 📋 **Cert No:** MR-82052-MS &nbsp;|&nbsp; 📅 **Issued:** 2026-05-08 &nbsp;|&nbsp; ⏱️ **Duration:** 3 months
+
+</div>
+
 ---
 
 ## 📈 Contribution Activity
