@@ -94,8 +94,7 @@ const sumirraa = {
 
 ## 🏅 Certifications
 
-![MERN Stack](https://img.shields.io/badge/Certified-MERN_Stack_Developer-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+C:\Users\dell\Desktop\sk\personal documents\MindRisers Certificate.png
 <div align="center">
 
 ### MERN Stack — MindRisers Institute of Technology
