@@ -100,7 +100,7 @@ const sumirraa = {
 
 ### MERN Stack — MindRisers Institute of Technology
 
-<img src="MindRisers_Certificate.png" alt="MERN Stack Certificate of Completion - MindRisers Institute of Technology" width="700"/>
+<img src=""C:\Users\dell\Desktop\sk\personal documents\MindRisers Certificate.png"" alt="MERN Stack Certificate of Completion - MindRisers Institute of Technology" width="700"/>
 
 > 📋 **Cert No:** MR-82052-MS &nbsp;|&nbsp; 📅 **Issued:** 2026-05-08 &nbsp;|&nbsp; ⏱️ **Duration:** 3 months
 
