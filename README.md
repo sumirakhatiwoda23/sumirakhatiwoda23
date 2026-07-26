@@ -120,7 +120,7 @@ const sumirraa = {
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
+### 💡 "Talk is cheap. Show me the code." — Linus Torvalds
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sumirakhatiwoda23&color=blueviolet&style=flat-square&label=Profile+Views)
 
