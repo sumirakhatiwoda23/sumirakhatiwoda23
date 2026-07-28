@@ -124,6 +124,6 @@ const sumirraa = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sumirakhatiwoda23&color=blueviolet&style=flat-square&label=Profile+Views)
 
-⭐️ *If you like my work, consider starring some repos!*
+⭐️ If you find my work helpful, consider giving my repositories a star!
 
 </div>
