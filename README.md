@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer · MERN Stack Certified · ML Enthusiast · Based in Nepal 🇳🇵
 
-*I build clean, functional web apps and explore the world of data & machine learning.*
+*Code. Build. Learn. Exploring web development, data science, and machine learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumirakhatiwoda23)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumirakhatiwoda23)
