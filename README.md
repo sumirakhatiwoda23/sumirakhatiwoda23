@@ -1,24 +1,38 @@
-<div align="center">
+# Hi there 👋
 
-# 👋 Hey there, I'm Sumirraa Khatiwoda
+---
 
-### Full-Stack Web Developer · MERN Stack Certified · ML Enthusiast · Based in Nepal 🇳🇵
+## 💫 About Me:
 
-*Code. Build. Learn. Exploring web development, data science, and machine learning.*
+🔭 I'm currently working on:
+Building full-stack apps with the MERN stack
 
-</div>
+🌱 I'm currently learning:
+Sharpening my full-stack skills with the MERN stack
+
+🤝 I'm looking to collaborate on:
+Open source projects and full-stack web apps
+
+💬 Ask me about:
+HTML, CSS, JavaScript, React, Node.js, or Python
+
+🌐 Portfolio:
+[portfolio-websites-rouge.vercel.app](https://portfolio-websites-rouge.vercel.app/)
+
+
 
 ---
 
 ## 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/sumirakhatiwoda23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sumirraa-khatiwoda-a0b1671b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/sumirakhatiwoda23" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://x.com/Sumirakhatiwoda" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.facebook.com/sumiraa.khatiwoda" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/sumirraa_khatiwoda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.tiktok.com/@sumira.khatiwoda" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://portfolio-websites-rouge.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
