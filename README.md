@@ -83,7 +83,7 @@ HTML, CSS, JavaScript, React, Node.js, or Python
 
 <div align="center">
 
-[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumirakhatiwoda23&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
