@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sumira Khatiwoda
+# Hi there 👋 I'm Sumirraa Khatiwoda
 
 ## 💫 About Me
 
