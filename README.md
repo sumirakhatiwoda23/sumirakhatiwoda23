@@ -1,20 +1,22 @@
+# GitHub Profile README
+
 # Hi there 👋 I'm Sumirraa Khatiwoda
 
 ## 💫 About Me
 
-🔭 **I'm currently working on:**  
+🔭 **I'm currently working on:**
 Building full-stack applications with the MERN stack.
 
-🌱 **I'm currently learning:**  
+🌱 **I'm currently learning:**
 Sharpening my full-stack development skills and exploring modern web technologies.
 
-🤝 **I'm looking to collaborate on:**  
+🤝 **I'm looking to collaborate on:**
 Open-source projects and interesting full-stack web applications.
 
-💬 **Ask me about:**  
+💬 **Ask me about:**
 HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, or Python.
 
-🌐 **Portfolio:**  
+🌐 **Portfolio:**
 [Visit my Portfolio](https://portfolio-websites-rouge.vercel.app/)
 
 ---
@@ -111,9 +113,9 @@ HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, or Python.
 
 <div align="center">
 
-<img height="165" src="https://github-stats-alpha.vercel.app/api?username=sumirakhatiwoda23&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumirakhatiwoda23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumirakhatiwoda23&theme=tokyonight" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumirakhatiwoda23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
