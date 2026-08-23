@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 # Hi there 👋 I'm Sumirraa Khatiwoda
 
 ## 💫 About Me
@@ -127,7 +125,7 @@ HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, or Python.
 
 <a href="https://git.io/streak-stats">
 
-<img src="https://streak-stats.demolab.com/?user=sumirakhatiwoda23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=sumirakhatiwoda23&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak"/>
 
 </a>
 
